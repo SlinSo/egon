@@ -1,5 +1,10 @@
 Egon
 ===
+
+## Not longer maintained
+* the implemented features didnt' find their way into ego or egon :(
+* for my projects I switched to [quicktemplate](https://github.com/valyala/quicktemplate)
+
 ## Added in this fork
 * Added flags to the egon command
 * Added view geneartion optional, because it is only needed if your web framework supports late rendering
