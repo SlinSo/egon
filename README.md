@@ -1,7 +1,7 @@
 Egon
 ===
 
-## Not longer maintained
+## No longer maintained
 * the implemented features didnt' find their way into ego or egon :(
 * for my projects I switched to [quicktemplate](https://github.com/valyala/quicktemplate)
 
